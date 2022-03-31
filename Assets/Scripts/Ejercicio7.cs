@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Realizá un programa que al ingresar por Inspector tres números enteros num1, num2 y num3,
+//muestre el valor del mayor de todos.
+//En caso de igualdad entre los tres imprimir "Los números son iguales". 
+
+
 public class Ejercicio7 : MonoBehaviour
 {
     public int num1;
