@@ -10,10 +10,10 @@ using UnityEngine;
 public class Ejercicio3 : MonoBehaviour
 {
 
-    public string mensaje;
+    public string nombre;
     void Start()
     {
-        Debug.Log(mensaje);
+        Debug.Log("Hola " + nombre);
     }
 
     // Update is called once per frame
